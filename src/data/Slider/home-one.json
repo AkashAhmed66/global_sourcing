@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1, 
+    "title": "<span>High Quality Apparel</span><br> Sourcing",
+    "description": "",
+    "bg": "slider16.jpg",
+    "btnText": "Contact Us",
+    "btnLink": "/contact"
+  },
+  {
+    "id": 2, 
+    "title": "<span>The Global Apparel  </span> <br> Supplier You Can Trust",
+    "description": "",
+    "bg": "slider17.jpg",
+    "btnText": "Our Products",
+    "btnLink": "/products"
+  },
+  {
+    "id": 3, 
+    "title": "<span> Socially Responsible </span>Compliant <br> Manufacturing",
+    "description": "",
+    "bg": "slider18.jpg",
+    "btnText": "About Us",
+    "btnLink": "/about"
+  },
+  {
+    "id": 4, 
+    "title": "<span>Global Footwear Supplier  </span> <br> You Can Rely On",
+    "description": "",
+    "bg": "slider19.jpg",
+    "btnText": "About Us",
+    "btnLink": "/about"
+  } 
+ 
+]

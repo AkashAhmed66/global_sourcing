@@ -1,0 +1,1926 @@
+[
+    {
+        "title": "AllProducts",
+        "Values": [
+            {
+                "id": "1",
+                "title": "Woven"
+            },
+            {
+                "id": "2",
+                "title": "Knit"
+            },
+            {
+                "id": "3",
+                "title": "Sweater"
+            },
+            {
+                "id": "4",
+                "title": "Footwear"
+            },
+            {
+                "id": "5",
+                "title": "Leather goods"
+            },
+            {
+                "id": "6",
+                "title": "Home Textile"
+            },
+            {
+                "id": "7",
+                "title": "Handicrafts"
+            },
+            {
+                "id": "10",
+                "title": "Safety Equipments"
+            },
+            {
+                "id": "8",
+                "title": "Jamdani"
+            },
+            {
+                "id": "9",
+                "title": "Ceramic"
+            }
+        ]
+    },
+    {
+        "title": "Woven",
+        "Values": [
+            {
+                "id": 1,
+                "title": "Woven",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Woven-1.jpeg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 2,
+                "title": "Woven",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Woven-2.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 3,
+                "title": "Woven",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Woven-3.jpeg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 4,
+                "title": "Woven",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Woven-4.jpeg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 5,
+                "title": "Woven",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Woven-5.webp",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 6,
+                "title": "Woven",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Woven-6.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 7,
+                "title": "Woven",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Woven-7.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 8,
+                "title": "Woven",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Woven-8.webp",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 9,
+                "title": "Woven",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Woven-9.webp",
+                "btnText": "",
+                "singleThumb": ""
+            }
+        ]
+    },
+    {
+        "title": "Knit",
+        "Values": [
+            {
+                "id": 1,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-1.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 2,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-2.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 3,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-3.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 4,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-4.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 5,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-5.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 6,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-6.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 7,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-7.jpeg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 8,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-8.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 9,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-9.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 10,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-10.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 11,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-11.jpeg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 13,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-13.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 14,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-14.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 15,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-15.png",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 16,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-16.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 17,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-17.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 18,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-18.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 19,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-19.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 20,
+                "title": "Knit",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Knit-20.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            }
+        ]
+    },
+    {
+        "title": "Sweater",
+        "Values": [
+             {
+                "id": 1,
+                "title": "sweater",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "sweater1.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 2,
+                "title": "sweater",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "sweater2.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 3,
+                "title": "sweater",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "sweater3.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 4,
+                "title": "sweater",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "sweater4.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 5,
+                "title": "sweater",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "sweater5.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 6,
+                "title": "sweater",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "sweater6.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 7,
+                "title": "sweater",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "sweater7.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 13,
+                "title": "sweater",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "sweater13.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 14,
+                "title": "sweater",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "sweater14.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 15,
+                "title": "sweater",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "sweater15.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 16,
+                "title": "sweater",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "sweater16.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            }
+        ]
+    },
+    {
+        "title": "Footwear",
+        "Values": [
+             {
+                "id": 1,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-1.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 2,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-2.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 3,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-3.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 4,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-4.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 5,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-5.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 6,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-6.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 7,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-7.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 8,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-8.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 9,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-9.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 10,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-10.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 11,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-11.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 12,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-12.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 13,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-13.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 14,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-14.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 15,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-15.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 16,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-16.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 17,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-17.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 18,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-18.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 19,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-19.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 20,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-20.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 21,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-21.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 22,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-22.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 23,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-23.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 24,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-24.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 25,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-25.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 26,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-26.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 27,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-27.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 28,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-28.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 29,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-29.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 30,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-30.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 31,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-31.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 32,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-32.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 33,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-33.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 34,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-34.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 35,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-35.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 36,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-36.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 37,
+                "title": "Footwear",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Footwear-37.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            }
+        ]
+    },
+    {
+        "title": "Leather goods",
+        "Values": [
+             {
+                "id": 1,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-1.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 2,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-2.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 3,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-3.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 4,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-4.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 5,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-5.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 6,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-6.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 7,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-7.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 8,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-8.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 9,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-9.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 10,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-10.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 11,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-11.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 12,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-12.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 13,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-13.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 14,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-14.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 15,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-15.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 16,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-16.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 17,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-17.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 18,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-18.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 19,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-19.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 20,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-20.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 21,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-21.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 22,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-22.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 23,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-23.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 24,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-24.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 25,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-25.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 26,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-26.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 27,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-27.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 28,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-28.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 29,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-29.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 30,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-30.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 31,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-31.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 32,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-32.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 33,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-33.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 34,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-34.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 35,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-35.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 36,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-36.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 37,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-37.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 38,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-38.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 39,
+                "title": "Leather",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Leather-39.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            }
+        ]
+    },
+    {
+        "title": "Home Textile",
+        "Values": [
+            {
+                "id": 1,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-1.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 2,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-2.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 3,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-3.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 4,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-4.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 5,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-5.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 6,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-6.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 7,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-7.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 8,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-8.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 9,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-9.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 10,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-10.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 11,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-11.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 12,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-12.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 13,
+                "title": "HomeText",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "HomeText-13.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            }
+        ]
+    },
+    {
+        "title": "Handicrafts",
+        "Values": [
+            {
+                "id": 1,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-1.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 2,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-2.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 3,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-3.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 4,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-4.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 5,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-5.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 6,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-6.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 7,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-7.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 8,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-8.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 9,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-9.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 10,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-10.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 11,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-11.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 12,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-12.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 13,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-13.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 14,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-14.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 15,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-15.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 16,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-16.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 17,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-17.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 18,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-18.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 19,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-19.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 20,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-20.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 21,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-21.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 22,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-22.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 23,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-23.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 24,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-24.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 25,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-25.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 26,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-26.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 27,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-27.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 28,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-28.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 29,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-29.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 30,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-30.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 31,
+                "title": "Handicraft",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Handicraft-31.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            }
+        ]
+    },
+    {
+        "title": "Ceramic",
+        "Values": [
+            {
+                "id": 1,
+                "title": "Ceramic",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Ceramic-1.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 2,
+                "title": "Ceramic",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Ceramic-2.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 3,
+                "title": "Ceramic",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Ceramic-3.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 4,
+                "title": "Ceramic",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Ceramic-4.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 5,
+                "title": "Ceramic",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Ceramic-5.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 6,
+                "title": "Ceramic",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Ceramic-6.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 7,
+                "title": "Ceramic",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Ceramic-7.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 8,
+                "title": "Ceramic",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Ceramic-8.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 9,
+                "title": "Ceramic",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Ceramic-9.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 10,
+                "title": "Ceramic",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Ceramic-10.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 11,
+                "title": "Ceramic",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Ceramic-11.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            }
+        ]
+    },
+    {
+        "title": "Jamdani",
+        "Values": [
+            {
+                "id": 1,
+                "title": "Jamdani",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Jamdani-1.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 2,
+                "title": "Jamdani",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Jamdani-2.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 3,
+                "title": "Jamdani",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Jamdani-3.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 4,
+                "title": "Jamdani",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Jamdani-4.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 5,
+                "title": "Jamdani",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Jamdani-5.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 6,
+                "title": "Jamdani",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Jamdani-6.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 7,
+                "title": "Jamdani",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Jamdani-7.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 8,
+                "title": "Jamdani",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Jamdani-8.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 9,
+                "title": "Jamdani",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Jamdani-9.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 10,
+                "title": "Jamdani",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Jamdani-10.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },
+            {
+                "id": 11,
+                "title": "Jamdani",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Jamdani-11.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            }
+        ]
+    },
+    {
+        "title": "Safety Equipments",
+        "Values": [
+            {
+                "id": 1,
+                "title": "Safety Equipments",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Safety-1.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            },{
+                "id": 2,
+                "title": "Safety Equipments",
+                "shortDesc": "",
+                "description": "",
+                "icon": "",
+                "thumb": "Safety-2.jpg",
+                "btnText": "",
+                "singleThumb": ""
+            }
+        ]
+    }
+]

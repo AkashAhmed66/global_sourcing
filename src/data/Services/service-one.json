@@ -1,0 +1,95 @@
+[
+  {
+    "id": 1, 
+    "title": "Woven",
+    "shortDesc": "", 
+    "description": "",
+    "icon": "",
+    "thumb": "Product-1.jpeg",
+    "btnText": "",
+    "singleThumb": ""
+  },
+  {
+    "id": 2, 
+    "title": "Knit",
+    "shortDesc": "",
+    "description": "",
+    "icon": "",
+    "thumb": "Product-2.jpg",
+    "btnText": "",
+    "singleThumb": ""
+  },
+  {
+    "id": 3, 
+    "title": "Sweater",
+    "shortDesc": "",
+    "icon": "i",
+    "thumb": "Product-3.jpg",
+    "btnText": "",
+    "singleThumb": ""
+  },
+  {
+    "id": 4, 
+    "title": "Footwear",
+    "shortDesc": "",
+    "icon": "i",
+    "thumb": "Product-4.jpg",
+    "btnText": "",
+    "singleThumb": ""
+  },
+  {
+    "id": 5, 
+    "title": "Leather goods",
+    "shortDesc": "",
+    "icon": "i",
+    "thumb": "Product-5.jpg",
+    "btnText": "",
+    "singleThumb": ""
+  },
+  {
+    "id": 6, 
+    "title": "Handicrafts",
+    "shortDesc": "",
+    "icon": "i",
+    "thumb": "Product-6.jpg",
+    "btnText": "",
+    "singleThumb": ""
+  },
+  {
+    "id": 7, 
+    "title": "Home Textile",
+    "shortDesc": "",
+    "icon": "i",
+    "thumb": "Product-7.jpg",
+    "btnText": "",
+    "singleThumb": ""
+  },
+  {
+    "id": 8, 
+    "title": "Safety Equipments",
+    "shortDesc": "",
+    "icon": "i",
+    "thumb": "Product-8.jpg",
+    "btnText": "",
+    "singleThumb": ""
+  },
+  {
+    "id": 9, 
+    "title": "Jamdani",
+    "shortDesc": "",
+    "icon": "i",
+    "thumb": "Product-9.jpg",
+    "btnText": "",
+    "singleThumb": ""
+  },
+  {
+    "id": 10, 
+    "title": "Ceramic",
+    "shortDesc": "",
+    "icon": "i",
+    "thumb": "Product-10.jpg",
+    "btnText": "",
+    "singleThumb": ""
+  }
+
+]
