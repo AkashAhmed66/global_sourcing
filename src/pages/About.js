@@ -12,7 +12,7 @@ const Aboutpage = () => {
     return(
         <Fragment>
             <MetaTags>
-              <title>NBM International Ltd | About</title>
+              <title>NBM Trade International | About</title>
               <meta
                 name="description"
                 content="Multipage Business  React JS Template."

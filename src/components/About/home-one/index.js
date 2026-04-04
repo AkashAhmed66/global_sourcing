@@ -15,9 +15,9 @@ const AboutContent = () => {
                     <div className="about_list">
                         {/* Start: Heading */}
                         <SectionTitle 
-                        title=" NBM International Ltd "  
+                        title=" NBM Trade International "  
                         />
-                        <p> NBM International Ltd is a global apparel & footwear sourcing, designing and manufacturing service company along with other sourcing based in Dhaka, Bangladesh. Having a team with a track record of serving the clients, we are confident that we can deliver you the best you want. </p>
+                        <p> NBM Trade International is a global apparel & footwear sourcing, designing and manufacturing service company along with other sourcing based in Dhaka, Bangladesh. Having a team with a track record of serving the clients, we are confident that we can deliver you the best you want. </p>
                      </div>
                      <div className="about_list">
                         {/* Start: Heading */}

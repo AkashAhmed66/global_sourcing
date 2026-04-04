@@ -19,7 +19,7 @@ const Home = () => {
   return (  
     <Fragment>
       <MetaTags>
-        <title>NBM International Ltd | Home Two</title>
+        <title>NBM Trade International | Home Two</title>
         <meta
           name="description"
           content="Multipage Business  React JS Template."

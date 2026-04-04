@@ -34,7 +34,7 @@ const Footer = () => {
             <Widget title="About">
               <p>
                 {" "}
-                NBM International Ltd is a global apparel & footwear sourcing,
+                NBM Trade International is a global apparel & footwear sourcing,
                 designing and manufacturing service company along with other
                 sourcing based in Dhaka, Bangladesh. Having a team with a track
                 record of serving the clients, we are confident that we can
@@ -62,7 +62,7 @@ const Footer = () => {
                 </LI>
                 <LI>
                   <i class="fa fa-envelope" aria-hidden="true"></i>
-                  <span>info@nbm-intl.com </span>
+                  <span>info@nbmtrade.net </span>
                 </LI>
               </List>
             </Widget>
@@ -73,7 +73,7 @@ const Footer = () => {
           <div className="subfooter">
             <div className="copyright_text">
               {" "}
-              &copy; {new Date().getFullYear()} NBM International Ltd
+              &copy; {new Date().getFullYear()} NBM Trade International
             </div>
 
             {/* SOCIAL ICON */}

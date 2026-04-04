@@ -7,7 +7,7 @@ const galleryPage = () => {
 	return (
 	  <Fragment>
 		<MetaTags>
-		  <title>NBM International Ltd | Home</title>
+		  <title>NBM Trade International | Home</title>
 		  <meta
 			name="description"
 			content="Multipage Business  React JS Template."

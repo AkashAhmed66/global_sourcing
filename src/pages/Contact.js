@@ -10,7 +10,7 @@ const ContactPage = () => {
 
         <Fragment>
             <MetaTags>
-              <title>NBM International Ltd | Contact Us</title>
+              <title>NBM Trade International | Contact Us</title>
               <meta
                 name="description"
                 content="Multipage Business  React JS Template."

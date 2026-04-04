@@ -80,7 +80,7 @@ const MobileMenu = () => {
               <i className="fa fa-phone"></i> +8801767 417009
               </li>
               <li>
-              <i className="fa fa-envelope"></i> info@nbm-intl.com 
+              <i className="fa fa-envelope"></i> info@nbmtrade.net 
               </li>
               <li>
               <i className="fa fa-globe"></i> Rose Garden, House: 36, Road: 13, Sector 11 Uttara Model Town Dhaka-1230, Bangladesh

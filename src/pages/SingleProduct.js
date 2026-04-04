@@ -13,7 +13,7 @@ const servicePage = () => {
 	return (
 	  <Fragment>
 		<MetaTags>
-		  <title>NBM International Ltd | Products</title>
+		  <title>NBM Trade International | Products</title>
 		  <meta
 			name="description"
 			content="Multipage Business  React JS Template."
