@@ -80,8 +80,24 @@ const Footer = () => {
             <div className="footer_social">
               <ul className="footer_social_icons">
                 <li>
-                  {" "}
-                  <i className="fa fa-facebook"></i>{" "}
+                  <a
+                    href="https://www.linkedin.com/company/nbm-sourcing-ltd/?viewAsMember=true"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="LinkedIn"
+                  >
+                    <i className="fa fa-linkedin"></i>
+                  </a>
+                </li>
+                <li>
+                  <a
+                    href="https://www.facebook.com/NBMTRADEINTERNATIONAL/"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="Facebook"
+                  >
+                    <i className="fa fa-facebook"></i>
+                  </a>
                 </li>
                 <li>
                   {" "}
@@ -90,10 +106,6 @@ const Footer = () => {
                 <li>
                   {" "}
                   <i className="fa fa-instagram"></i>{" "}
-                </li>
-                <li>
-                  {" "}
-                  <i className="fa fa-pinterest"></i>{" "}
                 </li>
               </ul>
             </div>
