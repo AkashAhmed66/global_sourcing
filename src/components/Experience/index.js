@@ -14,7 +14,7 @@ const SkillSec = () => {
             <div className="row">
                 <div className="col-lg-6 col-sm-12 col-xs-12">
                     <div className="skill-text">
-                        <h2>More Than 7 Years Of Experience</h2>
+                        <h2>More Than 10 Years Of Experience</h2>
                         <p> In our sourcing company, a skilled and efficient team serves as 
                             the linchpin for success, adeptly navigating the intricate landscape of 
                             supply chains and vendor relationships. Each team member brings a unique set 
