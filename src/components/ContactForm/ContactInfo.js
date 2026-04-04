@@ -11,7 +11,7 @@ const COntactInfo = () => {
         </div>
         <div className="bottom_contact col-sm-4 col-xs-12"><i className="icon_phone"></i>
             <p>Phone Number</p>
-            <h4>+8801767 417009</h4>
+            <h4>+8801616 403090</h4>
         </div>
         <div className="bottom_contact col-sm-4 col-xs-12"><i className="icon_clock_alt"></i>
             <p>Opening Hours</p>

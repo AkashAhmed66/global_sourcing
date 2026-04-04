@@ -77,7 +77,7 @@ const MobileMenu = () => {
           <div className="header_top_right list-unstyled">
             <ul>
               <li>
-              <i className="fa fa-phone"></i> +8801767 417009
+              <i className="fa fa-phone"></i> +8801616 403090
               </li>
               <li>
               <i className="fa fa-envelope"></i> info@nbmtrade.net 

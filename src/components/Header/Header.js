@@ -12,7 +12,7 @@ const Header = () => {
                 <div className="colm">
                     <div className="header_wrapper_1">
                         <ul>
-                            <li><i className="icon_phone"></i> +8801767 417009</li>
+                            <li><i className="icon_phone"></i> +8801616 403090</li>
                             <li> <i className="icon_mail_alt"></i>NBM-global@gmail.com</li>
                         </ul>
                     </div>
